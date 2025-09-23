@@ -1,0 +1,31 @@
+leftnav:
+- identifier: 445af8d2-0d19-052f-7717-ba32ad619a3e
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: f198482f-4ff8-6df2-7a34-f3d9660d0d7e
+  name: Films and Readings
+  pageRef: /pages/films-and-readings
+  weight: 20
+- identifier: d61a4e55-ca51-6fb4-fe89-4ab0e52d9a13
+  name: Lecture and Lab Videos
+  pageRef: /pages/lecture-and-lab-videos
+  weight: 30
+- identifier: 9364e108-2edb-6069-342e-722d78adba29
+  name: Assignments and Projects
+  pageRef: /pages/assignments-and-projects/
+  weight: 40
+- identifier: eace5440-f8cc-2bb8-00c8-7381ab1ad356
+  name: DV Lab Documentary Ethics
+  pageRef: /pages/assignments-and-projects/ethics
+  parent: 9364e108-2edb-6069-342e-722d78adba29
+  weight: 50
+- identifier: cbf1a3a3-be1d-664c-d181-c14b5cf61005
+  name: Short Paper Assignment
+  pageRef: /pages/assignments-and-projects/paper1
+  parent: 9364e108-2edb-6069-342e-722d78adba29
+  weight: 60
+- identifier: ca496b75-74e2-0dca-7f15-4c4507a65aef
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 70
