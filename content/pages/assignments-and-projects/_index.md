@@ -25,4 +25,4 @@ If you're happy with the outcome of your final video project this is all you nee
 
 If you are not completely satisfied with the final project, you can submit a 5 page paper along with the video project, outlining what you tried to do, how you went about it, why it didn't fully capture what you were trying to do, and possibilities for reworking the video that could address the issues you raise. You will be graded on the paper as well as the final project (i.e. even if the final project isn't a complete success, you can still earn a good grade by offering a perceptive, well-argued analysis of what can be learned from this experience).
 
-{{% resource_link "6c8c415d-9936-4dbb-8d40-b013fba1d6f0" "Videos by DV Lab students" %}}
+[Videos by DV Lab students](https://video.odl.mit.edu/collections/4f69594efa124156b5336792a0af6080)

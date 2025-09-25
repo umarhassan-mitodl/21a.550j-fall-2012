@@ -33,4 +33,4 @@ If you are on private property and asked not to take pictures or video tape, you
 
 Legal rights to photograph or film are stronger than legal rights to **publish** those images. Although you may have a legal right to take a picture of someone in public, you cannot publish that picture for commercial gain, for example, without their permission. (i.e. television commercials, ads, and promotional videos are treated differently and have less protected rights than filmmakers, documentary filmmakers, and news crews). Also, if the images are used in a potentially defamatory way, you could be subject to a lawsuit.
 
-These are just guidelines and not legal advice per se. Laws vary by state and between countries. For more information, see the {{% resource_link "67788ce7-bf30-4a69-83ee-f5454f02b102" "Legal Handbook for Photographers" %}} by Bert Krages.
+These are just guidelines and not legal advice per se. Laws vary by state and between countries. For more information, see the [Legal Handbook for Photographers](http://www.krages.com/phoright.htm) by Bert Krages.
