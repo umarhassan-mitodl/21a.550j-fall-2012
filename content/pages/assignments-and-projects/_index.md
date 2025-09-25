@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides guidelines for the DV Lab, details on the short
   paper assignment and projects, and videos by DV Lab students.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Assignments and Projects
