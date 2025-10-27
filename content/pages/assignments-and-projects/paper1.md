@@ -18,10 +18,10 @@ Please answer one of the following two essay questions (3–5 pages, cite at lea
 
 For this question, you will want to draw upon the {{% resource_link f198482f-4ff8-6df2-7a34-f3d9660d0d7e "Archive reading" %}}:
 
-Ginsburg, Faye. "[Screen Memories: Resignifying the Traditional in Indigenous Media](https://as.nyu.edu/content/dam/nyu-as/faculty/documents/Ginsburg-ScreenMemories.pdf)." In _Media Worlds: Anthropology on New Terrain_. Edited by Faye Ginsburg, Lila Abu-Lughod, and Brian Larkin. University of California Press, 2002. ISBN: 9780520232310.
+Ginsburg, Faye. "{{% resource_link "be0d9420-4ddf-420e-9db6-e0ae79b6e55e" "Screen Memories: Resignifying the Traditional in Indigenous Media" %}}." In _Media Worlds: Anthropology on New Terrain_. Edited by Faye Ginsburg, Lila Abu-Lughod, and Brian Larkin. University of California Press, 2002. ISBN: 9780520232310.
 
 You will also want to view more of the documentaries:
 
-[_Nanook Revisited_](http://ffh.films.com/PreviewClip.aspx?id=2983&trackingID=BVL). Directed by Claude Massot. Color, 60 min. Films for the Humanities and Sciences, 1990.
+{{% resource_link "1e512dcb-dcdf-4947-9365-85b722907377" "_Nanook Revisited_" %}}. Directed by Claude Massot. Color, 60 min. Films for the Humanities and Sciences, 1990.
 
-[_Starting Fire with Gunpowder_](http://icarusfilms.com/cat97/p-s/startfir.html). Directed by Boyce Richardson. Color, 59 min. 1991.
+{{% resource_link "7ed1b9bd-f4ca-45a1-bd06-519c81dd9c79" "_Starting Fire with Gunpowder_" %}}. Directed by Boyce Richardson. Color, 59 min. 1991.
