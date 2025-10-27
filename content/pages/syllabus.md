@@ -4,8 +4,6 @@ description: This syllabus section provides the course description and informati
   on meeting times, requirements, readings, films, equipment, and the schedule of
   lecture topics, labs, screenings, and assignment due dates.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -23,7 +21,7 @@ In this class, we will *make* as well as *analyze* documentaries that focus on s
 
 In this class, we will ask a range of questions: What kinds of historically changing ideas about "truth" or reality come to be encapsulated in documentary film? How do these ideas emerge in particular ways in films about science and engineering? In what ways have scientists and engineers sought to use non-fiction film and how have they been portrayed in them? What kinds of narratives about science and technology have documentary filmmakers employed and what have been their effects upon their audiences? How have historical changes in technologies relating to film and video transformed the kinds of films - and their meanings - that have been made? What kinds of relationships are at work among filmmakers, subjects, and audiences? How do visual images and what they can capture differ from what can be captured in the written word? How do documentary films about science shape – and, in turn, come to be shaped by - other forms of filmmaking or analysis? How do they affect how we think about the larger social worlds in which we live?
 
-From our vantage point within MIT, we will explore what video cameras allow us to capture about the social worlds of science and engineering. How might cameras encourage us to rethink what it's like to work in a laboratory? What might we learn by filming the process of conceiving and engineering a new kind of robot or a solar-powered vehicle or a clean water technology for developing countries? How can cameras help us capture the symbolic meanings of "science" through documenting the architectural layout of MIT or the tourists who pour through the infinite corridor? How might video help us capture how science and technology become part of everyday worlds far beyond MIT, from community health programs, to the circulation of garbage on and off campus, to the far-flung social settings in which inventions made by [D-Lab](http://d-lab.mit.edu/) students may operate?
+From our vantage point within MIT, we will explore what video cameras allow us to capture about the social worlds of science and engineering. How might cameras encourage us to rethink what it's like to work in a laboratory? What might we learn by filming the process of conceiving and engineering a new kind of robot or a solar-powered vehicle or a clean water technology for developing countries? How can cameras help us capture the symbolic meanings of "science" through documenting the architectural layout of MIT or the tourists who pour through the infinite corridor? How might video help us capture how science and technology become part of everyday worlds far beyond MIT, from community health programs, to the circulation of garbage on and off campus, to the far-flung social settings in which inventions made by {{% resource_link "3cd59c8e-5ef5-48ca-9223-544e20fabb53" "D-Lab" %}} students may operate?
 
 The class meets twice a week for three hours. Wednesday classes will focus on documentary film analysis and we will watch clips of classic documentaries particularly those focusing on science. Friday's class is devoted to a lab focusing on video production. Students will engage in short production exercises that will familiarize them with video equipment and will also allow them to understand the theoretical discussions at a deeper level. Students will also engage in a final project that will track some aspect of science and engineering (broadly defined) in practice. Given the limited scope of this class, we can only offer a taste of the full-fledged production process. However, we hope that this class can offer a stimulating foray into the social worlds of documentary filmmaking.
 
@@ -43,11 +41,11 @@ Class assignments include:
 
 ### Required Books
 
-Barnouw, Eric. *Documentary: A History of the Non-fiction Film*. 2nd ed. Oxford University Press, 1993. ISBN: 9780195078985. \[Preview with [Google Books](http://books.google.com/books?id=qtZ91DNvgBMC&printsec=frontcover)\]
+Barnouw, Eric. *Documentary: A History of the Non-fiction Film*. 2nd ed. Oxford University Press, 1993. ISBN: 9780195078985. \[Preview with {{% resource_link "f46d1c71-33a6-46af-918e-0b3956ecd47f" "Google Books" %}}\]
 
 Ascher, Steven, and Edward Pincus. *The Filmmaker's Handbook: A Comprehensive Guide for the Digital Age: 2013 Edition*. Plume Publishers/Penguin, 2012. ISBN: 9780452297289.
 
-Brenneis, Lisa, and M. Wohl. *Final Cut Pro X: Visual QuickStart Guide*. Peachpit Press, 2011. ISBN: 9780321774668. \[Preview with [Google Books](http://books.google.com/books?id=Z08CuTkhUmgC&printsec=frontcover)\]
+Brenneis, Lisa, and M. Wohl. *Final Cut Pro X: Visual QuickStart Guide*. Peachpit Press, 2011. ISBN: 9780321774668. \[Preview with {{% resource_link "18e164d7-aafb-4269-bc2f-ae4335f625a4" "Google Books" %}}\]
 
 Readings in these books are complemented by selections from other books and journals. Graduate students are expected to read additional papers and chapters each week.
 
@@ -122,7 +120,7 @@ Science and seeing
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 LAB 3
 {{< tdclose >}}{{< tdopen >}}
-Exercise: [MIT Infinite Corridor](http://en.wikipedia.org/wiki/Infinite_Corridor) walk
+Exercise: {{% resource_link "8bc7745c-a6e6-48b8-b18d-2d78ee24eadc" "MIT Infinite Corridor" %}} walk
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -214,7 +212,7 @@ Science and the environment: alternative ways of knowing
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 LAB 10
 {{< tdclose >}}{{< tdopen >}}
-Introduction to lighting (with guest instructor [David Tames](http://kino-eye.com))
+Introduction to lighting (with guest instructor {{% resource_link "f7367959-9161-4f22-b154-043b38fb2379" "David Tames" %}})
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
